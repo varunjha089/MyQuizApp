@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Quiz App</string>
+
+    <string name="questionOne">1. What is Deoxyribonucleic acid commonly referred to as?</string>
+    <string name="questionOnecChoiceOne">RNA</string>
+    <string name="questionOnecChoiceTwo">CIA</string>
+    <string name="questionOneChoiceThree">DNA</string>
+
+    <string name="questionTwo">2. Which plateform google is using to tranin the student on ANDROID?</string>
+    <string name="questionTwoChoiceOne">EDX</string>
+    <string name="questionTwoChoiceTwo">Udacity</string>
+    <string name="questionTwoChoiceThree">Udemy</string>
+
+    <string name="questionThree">3. Which two states have same HIGH COURT?</string>
+    <string name="questionThreeChoiceOne">Bihar</string>
+    <string name="questionThreeChoiceTwo">Delhi</string>
+    <string name="questionThreeChoiceThree">Harayana</string>
+    <string name="questionThreeChoiceFour">Punjab</string>
+
+    <string name="questionFour">4. Which is the capital of bihar</string>
+    <string name="questionFourChoiceOne">Darbhanga</string>
+    <string name="questionFourChoiceTwo">Patna</string>
+
+    <string name="submitAnswers">Submit Answers</string>
+    <string name="reset">reset</string>
+
+    <string name="questionFive">5. Where is the capital of INDIA</string>
+</resources>
